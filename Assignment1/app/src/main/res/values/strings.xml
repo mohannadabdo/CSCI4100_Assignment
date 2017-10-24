@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Assignment1</string>
+    <string name="begin_questions">Begin Questions!</string>
+    <string name="CS">Are you a CS student?</string>
+    <string name="engr_student">Are you an Engineering Student</string>
+    <string name="graduate">Are you Excited to Graduate?</string>
+    <string name="course">Do you like this course?</string>
+    <string name="university">Are you in University?</string>
+    <string name="textview">TextView</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
