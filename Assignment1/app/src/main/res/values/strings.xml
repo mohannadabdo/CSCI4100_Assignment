@@ -9,4 +9,13 @@
     <string name="textview">TextView</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
+    <string name="qArray">Questions</string>
+    <string name="yesCounter">YesCounter</string>
+    <string name="noCounter">NoCounter</string>
+    <string name="number_of_yes_answers">Number of Yes Answers:</string>
+    <string name="YesNum">TextView</string>
+    <string name="number_of_no_answers">Number of No Answers:</string>
+    <string name="NoNum">TextView</string>
+    <string name="qShow">Questions</string>
+    <string name="summary">Summary</string>
 </resources>

@@ -16,8 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AskQuestion" />
-        <activity android:name=".Summary"></activity>
+        <activity android:name=".AskQuestion" android:label="@string/qShow"/>
+        <activity android:name=".Summary" android:label="@string/summary"></activity>
     </application>
 
 </manifest>
